@@ -1,6 +1,7 @@
 import Image from 'next/image';
 
-import PigzIcon from '../../../public/assets/pigz.svg';
+import PigzIcon from '@/assets/pigz.svg';
+
 import { pigzdidoData } from './data';
 import { Box, PigzdidoContainer } from './styles';
 

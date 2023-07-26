@@ -1,4 +1,4 @@
-import BurgerImg from "../../../public/assets/burger.png";
+import BurgerImg from '@/assets/burger.png';
 
 export const bannerData = {
   title: (
@@ -7,6 +7,6 @@ export const bannerData = {
     </>
   ),
   subtitle:
-    "Temos uma equipe ansiosa para cadastrar seus produtos no Pigz Marketplace e deixar sua loja prontinha para iniciar as vendas.",
-  image: BurgerImg,
+    'Temos uma equipe ansiosa para cadastrar seus produtos no Pigz Marketplace e deixar sua loja prontinha para iniciar as vendas.',
+  image: BurgerImg
 };

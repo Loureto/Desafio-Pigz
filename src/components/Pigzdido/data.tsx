@@ -1,9 +1,9 @@
 import Image from 'next/image';
 
-import MarketIcon from '../../../public/assets/market.svg';
-import GestaoIcon from '../../../public/assets/pigz-gestao.svg';
-import PrintIcon from '../../../public/assets/print.svg';
-import SmartphoneIcon from '../../../public/assets/smartphone.svg';
+import MarketIcon from '@/assets/market.svg';
+import GestaoIcon from '@/assets/pigz-gestao.svg';
+import PrintIcon from '@/assets/print.svg';
+import SmartphoneIcon from '@/assets/smartphone.svg';
 
 export const pigzdidoData = [
   {
