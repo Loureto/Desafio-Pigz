@@ -1,0 +1,22 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "files.exclude": {
+    "package.json": true,
+    "tsconfig.json": true,
+    "README.md": true,
+    "wepack.config.js": true,
+    "yarn.lock": true,
+    ".prettierrc": true,
+    ".babelrc": true,
+    ".eslintrc.json": true,
+    ".gitignore": true,
+    ".next": true,
+    "next.config.js": true,
+    "next-env.d.ts": true,
+  }
+}
